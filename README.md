@@ -1,4 +1,4 @@
-# LauncherMFC
+# Zepetto Launcher
 
 Launcher para Windows desenvolvido em **C++17 e MFC**, com cliente de atualização, servidor de versões TCP e distribuição de patches por HTTP. O projeto implementa o fluxo de atualização do Point Blank/Piercing Blow, incluindo leitura de catálogos, verificação de arquivos e atualização do próprio launcher.
 
