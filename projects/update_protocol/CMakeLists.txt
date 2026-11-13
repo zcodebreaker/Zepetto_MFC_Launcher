@@ -1,0 +1,6 @@
+add_library(update_protocol "${launcher_src}/Protocol.cpp" "${launcher_src}/Protocol.h")
+target_include_directories(update_protocol PUBLIC "${launcher_src}")
+target_compile_definitions(update_protocol PUBLIC UNICODE _UNICODE NOMINMAX WIN32_LEAN_AND_MEAN _WIN32_WINNT=0x0A00)
+target_compile_options(update_protocol PUBLIC /utf-8)
+target_link_libraries(update_protocol PUBLIC ws2_32 iphlpapi)
+set_property(TARGET update_protocol PROPERTY FOLDER "Bibliotecas")

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<message version="20171214">
+	<SOCKETS_INIT_FAILED>Não foi possível inicializar o serviço de rede do Windows.</SOCKETS_INIT_FAILED>
+	<UPDATER_INIT_FAILED>Não foi possível iniciar o launcher.</UPDATER_INIT_FAILED>
+	<FILELIST_OPEN_FAILED>Não foi possível abrir a lista de arquivos.</FILELIST_OPEN_FAILED>
+	<DUPLICATE_EXE>O jogo ou o launcher já está aberto.</DUPLICATE_EXE>
+	<RUNTIME_LONG>O launcher foi encerrado por inatividade. Abra-o novamente.</RUNTIME_LONG>
+	<DO_NOT_EXE>Não foi possível iniciar o jogo.</DO_NOT_EXE>
+	<DISK_FREE_LACK>Espaço livre em disco insuficiente para a atualização.</DISK_FREE_LACK>
+	<NEEDED_FILECHECK>Verifique os arquivos do jogo antes de continuar.</NEEDED_FILECHECK>
+	<CREATE_GAME_FAIL>Não foi possível iniciar o jogo. Tente novamente.</CREATE_GAME_FAIL>
+	<CMDE_UPDATE_START>Não foi possível iniciar a atualização.</CMDE_UPDATE_START>
+	<CMDE_UPDATE_PAUSE>Não foi possível pausar a atualização.</CMDE_UPDATE_PAUSE>
+	<CMDE_FILECHECK1_FAIL>Não foi possível verificar os arquivos.</CMDE_FILECHECK1_FAIL>
+	<QUESTION_EXIT>Tem certeza de que deseja sair?</QUESTION_EXIT>
+	<REPOS_CONNECT_FAIL>Não foi possível conectar ao servidor de atualização.</REPOS_CONNECT_FAIL>
+	<INIT_WAIT_MSG>Por favor, aguarde.</INIT_WAIT_MSG>
+	<STATE_FILE_CHECK>Verificando a integridade dos arquivos.</STATE_FILE_CHECK>
+	<STATE_SIMPLE_VERSION_ACK>Consultando a versão mais recente.</STATE_SIMPLE_VERSION_ACK>
+	<STATE_SIMPLE_UPDATE_WAIT>Clique em Update para atualizar o jogo.</STATE_SIMPLE_UPDATE_WAIT>
+	<STATE_SIMPLE_PATCHDOWN>Baixando os arquivos da atualização.</STATE_SIMPLE_PATCHDOWN>
+	<STATE_SIMPLE_FILE_UNZIP>Extraindo os arquivos da atualização.</STATE_SIMPLE_FILE_UNZIP>
+	<STATE_SIMPLE_PATCH_APPLY>Aplicando a atualização.</STATE_SIMPLE_PATCH_APPLY>
+	<STATE_SIMPLE_PATCH_END>Você pode iniciar o jogo.</STATE_SIMPLE_PATCH_END>
+	<STATE_SIMPLE_ERROR>Ocorreu um erro.</STATE_SIMPLE_ERROR>
+	<STATE_SIMPLE_PATCHDOWN_END>Download da atualização concluído.</STATE_SIMPLE_PATCHDOWN_END>
+	<STATE_SIMPLE_VERSION_CHECK>Verificando a versão.</STATE_SIMPLE_VERSION_CHECK>
+	<CONNECT_FAIL2>Não foi possível conectar ao servidor.</CONNECT_FAIL2>
+	<NETWORK_INIT_FAIL>O servidor está cheio.</NETWORK_INIT_FAIL>
+	<LATESTFILELIST_OPEN_FAILED>Não foi possível abrir a lista de arquivos mais recente.</LATESTFILELIST_OPEN_FAILED>
+	<FILELIST_COMPARE_FAILED>Não foi possível comparar as listas de arquivos.</FILELIST_COMPARE_FAILED>
+	<USERFILELIST_CHANGE_FAILED>Não foi possível atualizar a lista de arquivos local.</USERFILELIST_CHANGE_FAILED>
+	<LATESTFILELIST_DELETE_FAILED>Não foi possível excluir a lista de arquivos mais recente.</LATESTFILELIST_DELETE_FAILED>
+	<PATCHFILE_DOWNLOAD_FAILED>Não foi possível baixar um arquivo da atualização.</PATCHFILE_DOWNLOAD_FAILED>
+	<FILE_DOWNLOAD_REQ_FAILED>Não foi possível solicitar o download do arquivo.</FILE_DOWNLOAD_REQ_FAILED>
+	<FILELIST_DOWN_FAILED>Não foi possível baixar a lista de arquivos.</FILELIST_DOWN_FAILED>
+	<LAUNCHER_VER_DIFF>A versão do launcher mudou. Abra-o novamente.</LAUNCHER_VER_DIFF>
+	<LAUNCHER_DOWNLOAD_FAILED>Não foi possível baixar a atualização do launcher.</LAUNCHER_DOWNLOAD_FAILED>
+	<LAUNCHER_MODIFIER_RUN_FAILED>Não foi possível iniciar o auxiliar de atualização do launcher.</LAUNCHER_MODIFIER_RUN_FAILED>
+	<NOT_FOUND_GAME_EXE>O executável do jogo não foi encontrado.</NOT_FOUND_GAME_EXE>
+	<UZIP_ERROR>Não foi possível extrair o arquivo.</UZIP_ERROR>
+	<CONVERT_DOMAIN_TO_IP_FAILED>Não foi possível resolver o endereço do servidor.</CONVERT_DOMAIN_TO_IP_FAILED>
+	<PATCHFILE_MAY_BE_CORRUPTED>O arquivo baixado está corrompido. Tente atualizar novamente.</PATCHFILE_MAY_BE_CORRUPTED>
+	<CANNOT_GET_MODULE_NAME>Não foi possível identificar o executável do launcher.</CANNOT_GET_MODULE_NAME>
+	<CANNOT_GET_FILESYSTEM_NAME>Não foi possível identificar o sistema de arquivos do disco.</CANNOT_GET_FILESYSTEM_NAME>
+	<DOWNLOAD_RESTART_FAILED>Não foi possível retomar o download.</DOWNLOAD_RESTART_FAILED>
+	<SERVER_ACK_TIMEOUT>O servidor não respondeu a tempo.</SERVER_ACK_TIMEOUT>
+	<FAILED_TO_LAUNCHER_UPDATE>Não foi possível atualizar o launcher.</FAILED_TO_LAUNCHER_UPDATE>
+	<USER_IS_NOT_ADMIN>Para iniciar o jogo, entre no Windows com uma conta de administrador e tente novamente.</USER_IS_NOT_ADMIN>
+	<MAIN_FILE>Arquivo</MAIN_FILE>
+	<MAIN_TOTAL>Total</MAIN_TOTAL>
+	<STATE_GAME_START>Iniciando o jogo.</STATE_GAME_START>
+	<STATE_PATCH_PAUSED>Atualização pausada.</STATE_PATCH_PAUSED>
+	<STATE_PATCH_RESUME>Retomando a atualização.</STATE_PATCH_RESUME>
+	<STATE_RETRY_DOWNLOAD>Tentando baixar o arquivo novamente.</STATE_RETRY_DOWNLOAD>
+	<STATE_DOWNLOAD_FILELIST>Baixando a lista de arquivos.</STATE_DOWNLOAD_FILELIST>
+	<STATE_APPLY_FILELIST>Atualizando a lista de arquivos.</STATE_APPLY_FILELIST>
+	<STATE_LAUNCHER_UPDATE>Atualizando o launcher.</STATE_LAUNCHER_UPDATE>
+	<BUTTON_PAUSE>Pausar</BUTTON_PAUSE>
+</message>

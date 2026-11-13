@@ -1,0 +1,12 @@
+{
+  "solution": {
+    "path": "build\\LauncherMFC.sln",
+    "projects": [
+      "projects\\PBLauncher\\PBLauncher.vcxproj",
+      "projects\\ResourceCheck\\ResourceCheck.vcxproj",
+      "projects\\UpdateServerss\\UpdateServerss.vcxproj",
+      "projects\\launcher_catalog\\launcher_catalog.vcxproj",
+      "projects\\update_protocol\\update_protocol.vcxproj"
+    ]
+  }
+}

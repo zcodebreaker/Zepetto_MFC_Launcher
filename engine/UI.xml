@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ui version="20140116">
+	<APP_TITLE>PBLauncher</APP_TITLE>
+	<MAIN_FILE>File</MAIN_FILE>
+	<MAIN_TOTAL>Total</MAIN_TOTAL>
+	<button name="update" text="Update">
+		<font usage="default" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="pause" text="Pause">
+		<font usage="default" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="start" text="Start">
+		<font usage="default" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="255" g="0" b="0"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+	<button name="check" text="Check">
+		<font usage="default" size="12" facename="">
+			<color r="0" g="0" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="focus" size="12" facename="">
+			<color r="0" g="0" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="pushed" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="hover" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+		<font usage="disabled" size="12" facename="">
+			<color r="255" g="255" b="255"/>
+			<outline size="1" r="0" g="0" b="0"/>
+		</font>
+	</button>
+</ui>
